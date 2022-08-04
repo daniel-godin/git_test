@@ -1,0 +1,3 @@
+Adding some text to test out how to use git commands.
+So far I'm finding I really like the way all of this is going!
+Can't wait to learn more!
